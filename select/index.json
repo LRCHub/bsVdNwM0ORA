@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファブリックフラワー",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T13:05:20.945771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファブリック・フラワー",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_ファブリック・フラワー_ウォルピスカーター.txt"
+    }
+  ]
+}
